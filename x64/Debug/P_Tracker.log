@@ -1,0 +1,38 @@
+﻿  P_Tracker.cpp
+C:\Users\opeot\OneDrive\Desktop\AME 441\Puck_Tracker\P_Tracker\P_Tracker.cpp(159,24): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\opeot\OneDrive\Desktop\AME 441\Puck_Tracker\P_Tracker\P_Tracker.cpp(336,23): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\opeot\OneDrive\Desktop\AME 441\Puck_Tracker\P_Tracker\P_Tracker.cpp(336,17): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\opeot\OneDrive\Desktop\AME 441\Puck_Tracker\P_Tracker\P_Tracker.cpp(386,40): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\opeot\OneDrive\Desktop\AME 441\Puck_Tracker\P_Tracker\P_Tracker.cpp(386,34): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\opeot\OneDrive\Desktop\AME 441\Puck_Tracker\P_Tracker\P_Tracker.cpp(386,61): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\opeot\OneDrive\Desktop\AME 441\Puck_Tracker\P_Tracker\P_Tracker.cpp(386,53): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\opeot\OneDrive\Desktop\AME 441\Puck_Tracker\P_Tracker\P_Tracker.cpp(219): warning C4715: 'prediction': not all control paths return a value
+  P_Tracker.vcxproj -> C:\Users\opeot\OneDrive\Desktop\AME 441\Puck_Tracker\P_Tracker\x64\Debug\P_Tracker.exe
